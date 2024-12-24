@@ -105,7 +105,7 @@ We can consider handling the imbalanced data by applying resampling techniques (
 
 ## Features Importances
 
-![Features Importances](features_importances.png)
+![Features Importances](images/features_importances.png)
 
 This shows that `Age` as the most influential factor in predicting outcomes, followed closely by the `NumberOfProducts` a customer holds and their account `Balance`. Being an Active Member and the customer's Geography also significantly impact predictions, indicating the importance of demographic and behavioral factors. In contrast, features such as Credit Score, Gender, and Estimated Salary have minimal or even negative importance, suggesting they contribute little to the model's performance. These insights help prioritize factors for targeted strategies in customer management.
 
